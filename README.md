@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# AI Travel Plan react native app developed using Expo react native, Gemini AI, firebase and Google Places Auto Complete.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## App features
+1. User registration
+2. User login
+3. Google Places Auto Complete
+4. Search Flights, hotel, site visits and tour activities.
 
-## Get started
+## Screenshot
+<img width="386" alt="ai-travel-plan1" src="https://github.com/user-attachments/assets/6b4f015b-6eab-43b1-ba0d-2351dc7c6749">
+<img width="386" alt="ai-travel-plan2" src="https://github.com/user-attachments/assets/275e3f5e-89cc-4b58-8903-3ae4c4681fdb">
+<img width="386" alt="ai-travel-plan3" src="https://github.com/user-attachments/assets/45f32044-9b42-4b4d-ab51-1116b5fc4b4d">
+<img width="386" alt="ai-travel-plan4" src="https://github.com/user-attachments/assets/8b9dde13-592b-4fd4-8031-f62c3570ca2c">
+<img width="386" alt="ai-travel-plan5" src="https://github.com/user-attachments/assets/39eae3e1-6049-4255-a7bd-39ebbcc2c486">
+<img width="386" alt="ai-travel-plan6" src="https://github.com/user-attachments/assets/bceb9377-c40a-4e25-81f6-aa1d6fe98718">
+<img width="386" alt="ai-travel-plan7" src="https://github.com/user-attachments/assets/9b2135f7-368d-494b-a5b2-cd0e27db8998">
+<img width="386" alt="ai-travel-plan8" src="https://github.com/user-attachments/assets/593b4af2-0d77-445a-b3d1-1a8727ad2832">
+<img width="386" alt="ai-travel-plan9" src="https://github.com/user-attachments/assets/4d31041e-e6a1-4a20-a780-8b77bd1551b0">
+<img width="386" alt="ai-travel-plan10" src="https://github.com/user-attachments/assets/dc46987c-c417-4b3f-9a58-3f766f5fb875">
+<img width="386" alt="ai-travel-plan11" src="https://github.com/user-attachments/assets/9f629905-817d-463b-98d4-c943ede06bc8">
+<img width="386" alt="ai-travel-plan12" src="https://github.com/user-attachments/assets/126ff44b-5f88-4ffd-b15e-4b8821a2ce07">
+<img width="386" alt="ai-travel-plan13" src="https://github.com/user-attachments/assets/8b834fbb-0d04-48a3-b30b-3c77c8bdccf6">
+<img width="386" alt="ai-travel-plan14" src="https://github.com/user-attachments/assets/eecc99f3-8378-4bed-a937-10a9bbfa6071">
+<img width="386" alt="ai-travel-plan15" src="https://github.com/user-attachments/assets/ab7ca26f-4951-497d-95a9-be39bfd5fd43">
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Thanks to tubegurji for your guidance and knowledge for this project.
